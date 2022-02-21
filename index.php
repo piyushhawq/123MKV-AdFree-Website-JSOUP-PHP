@@ -57,6 +57,7 @@ die(); */
             margin: 0;
             padding: 0;
             font-family: 'Calibri', sans-serif;
+            background-color: #202020;
         }
 
         a {
@@ -113,6 +114,10 @@ die(); */
             margin: 0;
             height: unset;
         }
+        .doc-card   :hover {
+         background: rgba(108, 110, 110, 0.795);;
+         
+         }
 
         img.aligncenter {
             width: 100%;
